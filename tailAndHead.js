@@ -1,0 +1,3 @@
+function tailAndHead(arr){
+  //coding here...
+}
